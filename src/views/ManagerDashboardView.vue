@@ -133,7 +133,7 @@ function exportCsv() {
         <span aria-hidden="true">AR</span>
         <div>
           <strong>Faishal Fariz</strong>
-          <small>Pengelola</small>
+          <small>Mahasiswa</small>
         </div>
       </div>
     </aside>
